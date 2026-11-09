@@ -1,0 +1,173 @@
+{
+    "stock_50g": 98,
+    "stock_100g": 88,
+    "orders": [
+        {
+            "size": "50g",
+            "quantity": 2,
+            "total": 1200
+        },
+        {
+            "size": "100g",
+            "quantity": 4,
+            "total": 4400
+        },
+        {
+            "size": "50g",
+            "quantity": 5,
+            "total": 3000
+        },
+        {
+            "size": "100g",
+            "quantity": 4,
+            "total": 4400
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        },
+        {
+            "size": "50g",
+            "quantity": 3,
+            "total": 1800
+        },
+        {
+            "size": "100g",
+            "quantity": 2,
+            "total": 2200
+        },
+        {
+            "size": "50g",
+            "quantity": 37,
+            "total": 22200
+        },
+        {
+            "size": "100g",
+            "quantity": 1,
+            "total": 1100
+        },
+        {
+            "size": "100g",
+            "quantity": 1,
+            "total": 1100
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "total": 600
+        }
+    ],
+    "sales": [
+        {
+            "size": "50g",
+            "quantity": 2,
+            "amount": 1200,
+            "date": "2026-10-12"
+        },
+        {
+            "size": "100g",
+            "quantity": 4,
+            "amount": 4400,
+            "date": "2026-10-12"
+        },
+        {
+            "size": "50g",
+            "quantity": 5,
+            "amount": 3000,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "100g",
+            "quantity": 4,
+            "amount": 4400,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "50g",
+            "quantity": 3,
+            "amount": 1800,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "100g",
+            "quantity": 2,
+            "amount": 2200,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "50g",
+            "quantity": 37,
+            "amount": 22200,
+            "date": "2026-10-28"
+        },
+        {
+            "size": "100g",
+            "quantity": 1,
+            "amount": 1100,
+            "date": "2026-10-29"
+        },
+        {
+            "size": "100g",
+            "quantity": 1,
+            "amount": 1100,
+            "date": "2026-10-29"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-10-29"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-11-09"
+        },
+        {
+            "size": "50g",
+            "quantity": 1,
+            "amount": 600,
+            "date": "2026-11-09"
+        }
+    ]
+}

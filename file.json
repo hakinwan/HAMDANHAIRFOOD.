@@ -1,0 +1,22 @@
+{
+    "orders": [
+        {
+            "size": "50g",
+            "quantity": 2,
+            "total": 1200
+        }
+    ],
+    "sales": [
+        {
+            "size": "50g",
+            "quantity": 2,
+            "amount": 1200,
+            "date": "2026-10-12"
+        }
+    ],
+    "stock_50g": 48,
+    "stock_100g": 50
+}
+
+
+
